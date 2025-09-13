@@ -2,6 +2,7 @@ package com.chanthakoun.practicespringtest.service;
 
 
 import com.chanthakoun.practicespringtest.domain.Album;
+import com.chanthakoun.practicespringtest.repo.AlbumRepository;
 import jakarta.validation.ValidationException;
 import org.junit.jupiter.api.Test;
 

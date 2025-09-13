@@ -2,6 +2,7 @@ package com.chanthakoun.practicespringtest.it;
 
 
 import com.chanthakoun.practicespringtest.domain.Task;
+import com.chanthakoun.practicespringtest.repo.TaskRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
