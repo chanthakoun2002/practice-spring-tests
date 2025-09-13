@@ -1,7 +1,6 @@
 package com.chanthakoun.practicespringtest.service;
 
 import com.chanthakoun.practicespringtest.domain.Task;
-import com.chanthakoun.practicespringtest.repo.TaskRepository;
 import jakarta.validation.ValidationException;
 import org.junit.jupiter.api.Test;
 
